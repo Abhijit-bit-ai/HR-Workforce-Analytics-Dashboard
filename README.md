@@ -1,4 +1,6 @@
 # HR Workforce Analytics & Attrition Dashboard
+![HR Workforce Analytics Dashboard](HR_Dashboard_Preview.png)
+
 
 ## Project Overview
 
